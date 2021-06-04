@@ -11,8 +11,14 @@ Swiper 的三張 banner 為線上使用工具產出。
 
 ## 使用技術
 ### 前端
-- Bootstrap v5.0
-- Swiper v6.6.2
 - HTML
 - SCSS
+- JavaScript
+
+### 套件
+- Bootstrap v5.0
+- Swiper v6.6.2
+- AOS.js
+- JQuery
+- font awesome
 
